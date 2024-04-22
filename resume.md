@@ -5,95 +5,108 @@ Phone: (412) 728-1532
 LinkedIn: [https://www.linkedin.com/in/alexander-lamers/](https://www.linkedin.com/in/alexander-lamers/)
 
 ## PROFESSIONAL SUMMARY
-Dynamic and strategic leader with over 10 years of comprehensive experience in program management, specializing in public service initiatives focused on sustainable transportation and community development. Demonstrates a proven track record of enhancing program delivery through effective policy development, stakeholder engagement, and robust strategic planning. Committed to promoting equity and accessibility, and adept at incorporating extensive international experience to foster inclusive, impactful projects. Skilled in building and maintaining cross-functional partnerships, capable of navigating diverse community settings, and driving significant urban development initiatives. Successfully spearheaded the Bike Chicago program at Working Bikes, expanding service reach by over 140% within the first year and enhancing mobility for program participants.
+Program Leader with 10+ years of experience in program/project management and community-focused environmental initiatives. Proven ability to deliver successful projects through effective planning, stakeholder engagement, and data analysis. Extensive experience managing budgets and leading teams. Seeking to leverage experience in sustainable transportation and community development for environmental remediation projects.
 
 ## EXPERIENCE
 
 ### BIKE CHICAGO SPECIALIST
 ***Working Bikes*** | *Chicago, Illinois* | *2023-Present*  
 
-- Manage Working Bikes' partnership with CDOT and WRD Environmental on the Bike Chicago program.
-- Liaise with CDOT, SAFE Ambassadors, WRD Environmental, and non-profit partners on policy development, strategic planning, and program logistics.
-- Cultivate vendor relationships for program accessories procurement.
-- Establish and maintain program quality standards and performance metrics.
-- Expanded bicycle distribution from 500 to 1,200 annually, increasing accessibility by 140%.
-- Develop and track program budgets of $400,000-$500,000/year.
+- Led the expansion of the Bike Chicago program in collaboration with WRD Environmental and CDOT; this initiative increased access to options for over 2,000 participants, potentially reducing reliance on car travel and associated emissions
+- Managed stakeholder engagement with diverse partners like CDOT, SAFE Ambassadors, and NGOs, fostering collaboration on program policy, strategy, and logistics
+- Developed and managed program budgets of $400,000-$500,000 annually, ensuring efficient resource allocation and project success.
+- Established and maintained program quality standards and performance metrics, demonstrating a commitment to program effectiveness and continuous improvement.
+- Expanded bicycle distribution from 500 to 1,200 annually, prioritizing outreach to underserved communities, thereby increasing overall accessibility by 140%.
 
 ### PROGRAM MANAGER
 ***Blackstone Bicycle Works*** | *Chicago, Illinois* | *2022*  
 
-- Developed and revitalized dormant earn-a-bike summer programs, increasing enrollment to 20+ at-risk youth within the first year.
-- Mentored youth participants and youth interns.
-- Developed and managed program budget of $300,000-$400,000/year.
+- Led the revitalization of dormant earn-a-bike summer programs at Blackstone Bicycle Works, 20+ youth participants within the first year. This initiative provided at-risk youth with valuable hands-on skills in problem solving & bicycle maintenance, fostered community engagement, and promoted a healthy lifestyles
+- Mentored youth participants and interns, fostering their personal and professional development
+- Developed and managed program budgets of $300,000-$400,000 annually, ensuring efficient resource allocation and project success
 
 ### PROGRAM ASSISTANT
 ***Oasis Bike Workshop*** | *Nashville, Tennessee* | *2015-2019*  
 
 - Empowered 120+ youth/year through after school earn-a-bike programs.
-- Conducted community outreach through public events with Walk Bike Nashville and local bicycle shops.
-- Forged and deepened partnerships via targeted outreach, enhancing transportation access and equity through community-centric programming.
+- Conducted community outreach through public events with Walk Bike Nashville and local bicycle shops
+- Forged and deepened partnerships via targeted outreach, enhancing transportation access and equity through community-centric programming
 
 ### RESEARCH ASSISTANT
 ***Vanderbilt University*** | *Nashville, Tennessee* | *2009-2011, 2014-2019*  
 
-- Collaborated on a series of research projects spanning natural product synthesis, probe development, and drug discovery.
-- Successfully delivered a diverse array of organic molecules across more than 20 interdisciplinary projects.
-- Co-authored 4 research publications and secured 1 patent for a novel organic synthesis process.
-- Developed a novel synthetic route to the natural product Bacillithiol, resulting in a 90% decrease in production cost.
-- Analyzed and summarized critical data to prepare academic publications, patents, and technical documentation.
+
+- Conducted 20+ research projects requiring meticulous data analysis, technical writing, and effective collaboration across diverse scientific disciplines
+- Developed a novel and cost-effective synthetic route to the natural product Bacillithiol, resulting in a 90% decrease in production cost, and demonstrating a strong understanding of process optimization and resource management
+Co-authored 4 research publications and secured 1 patent, demonstrating strong communication and project management skills
 
 ### GRADUATE STUDENT
 ***Tokyo Institute of Technology*** | *Tokyo, Japan* | *2011-2013*  
 
-- Independently developed a unique synthetic approach to two classes of diimine ligands used in olefin catalysis.
-- Analyzed, compiled, and communicated research to technical and non-technical audiences.
+- Led independent research projects in synthetic chemistry, demonstrating strong initiative, research skills, and problem-solving abilities
+- Analyzed, compiled, and communicated complex scientific information to both technical and non-technical audiences, showcasing excellent communication and presentation skills
 
 ## VOLUNTEER EXPERIENCE
 
 ### BOARD MEMBER/MAINTENANCE COORDINATOR
 ***Qumbya Housing Cooperative*** | *Chicago, Illinois* | *2024-Present*  
 
-- Provide strategic oversight, leadership, and policy development to ensure Qumbya provides affordable & equitable housing.
-- Oversee maintenance across Qumbya properties serving 45-55 residents, coordinating larger maintenance projects with contractors and NASCO Properties.
+- Lead strategic initiatives and policy development to ensure Qumbya provided affordable and equitable housing for 45-55 residents
+- Oversee property maintenance, coordinating with contractors and NASCO Properties for larger projects. Demonstrated project management skills, resource allocation, and collaboration with external partners  
 
 ### VOLUNTEER MECHANIC & EDUCATOR
 ***Free Ride Pittsburgh*** | *Pittsburgh, Pennsylvania* | *2021-2022*  
 
-- Hosted free, weekly bicycle mechanic lessons in collaboration with BikePGH to promote transportation access, justice, and equity.
-- Provided community members with access to affordable, refurbished bicycles and an accessible workspace.
+- Empowered community members through free, weekly bicycle mechanic lessons, fostering equitable access to sustainable transportation options
+- Increased access to affordable transportation by managing a program that provided refurbished bicycles and an accessible workspace   
 
 ### VOLUNTEER MECHANIC & EDUCATOR
 ***Faradgang*** | *Cologne, Germany* | *2020-2021*  
 
-- Advanced Faradgang's mission of delivering affordable, refurbished bicycles to displaced migrants and refugees in Cologne.
-- Coordinated weekly community open-shop sessions for underserved individuals.
+- Supported Faradgang's mission of promoting mobility and inclusion by delivering affordable, refurbished bicycles to displaced migrants and refugees
+- Organized and facilitated weekly community open-shop sessions for underserved individuals, fostering self-reliance and access to affordable transportation
 
 ### VOLUNTEER
 ***Project C.U.R.E.*** | *Nashville, Tennessee* | *2014-2016*  
 
-- Diverted medical supplies from the wastestreams to over 135 countries.
-- Managed and trained groups of up to 30 volunteers to load containers of medical supplies valued at ~$400,000 each.
+- Reduced medical waste and promoted global health equity by diverting essential medical supplies from landfills to over 135 countries
+- Led and trained volunteer teams (up to 30 people) for efficient loading of medical supply containers valued at ~$400,000 each, demonstrating leadership, project management, and logistics coordination skills
 
 ## SKILLS
-- Volunteer Management (10+ years)
-- Community Outreach (10+ years)
-- Social or Public Service Program Implementation (10+ years)
-- Budget and KPI Development and Tracking (10+ years)
-- Strategic Planning
-- Stakeholder Engagement
-- Teambuilding
-- Contractor Management
-- R for Statistical Analysis
-- QGIS for Spatial Data Mapping
+### **Technical Skills:**
+
+- **Project Management** *(10+ years)*:  
+  Proficient in volunteer management, budgeting, KPI tracking, strategic planning, stakeholder engagement, team building, and contractor management
+- **Data Analysis**:  
+Proficient in R for statistical analysis of environmental data
+- **Research**:  
+  Competent in orchestrating complex research projects from data collection and analysis to interpretation
+- **Geographic Information Systems (GIS)**:  
+  Proficient in spatial data mapping and analysis using QGIS
+
+### **Soft Skills:**
+
+- **Community Outreach** *(10+ years)*:  
+  Expert in implementing public service programs with strong capabilities in communication and collaboration
+- **Communication** *(10+ years)*:  
+  Effective in reading, writing, and producing clear, concise publications and technical documentation
+- **Problem-Solving**:  
+  Adept at identifying and resolving complex research and project challenges
+- **Attention to Detail**:  
+  Committed to precision and adherence to strict standards in all research and project activities
+- **Time Management**:  
+  Skilled in prioritizing tasks and consistently meeting deadlines under pressure
+- **Critical Thinking**:  
+  Proficient in analyzing data and making informed decisions based on sound reasoning
 
 ## LANGUAGES
-- English - Native proficiency
-- German - Advanced/Fluent; utilized in professional settings & community outreach
-- Spanish - Beginner; basic communication for community outreach
-- Japanese - Beginner; introductory usage in academic and research contexts
+
+- **English**: Native Speaker
+- **German**: Advanced/Fluent (Professional & Community Outreach)
+- **Spanish**: Basic Communication (Community Outreach)
+- **Japanese**: Introductory
 
 ## EDUCATION
-
 **M.S. in Environmental Science**  
 ***University of Cologne*** | *Cologne, Germany* | *2019-2022*  
 
