@@ -1,144 +1,104 @@
 # ALEXANDER P. LAMERS
+
 5405 S Ridgewood Ct., Chicago IL, 60615  
-Email: [lamersa@gmail.com](mailto:lamersa@gmail.com)  
+Email: lamersa@gmail.com  
 Phone: (412) 728-1532  
 LinkedIn: [https://www.linkedin.com/in/alexander-lamers/](https://www.linkedin.com/in/alexander-lamers/)
 
+---
+
 ## PROFESSIONAL SUMMARY
-Program Leader with 10+ years of experience in program/project management and community-focused environmental initiatives. Proven ability to deliver successful projects through effective planning, stakeholder engagement, and data analysis. Extensive experience managing budgets and leading teams. Seeking to leverage experience in sustainable transportation and community development for environmental remediation projects.
 
-## EXPERIENCE
+Environmental Scientist with over 10 years of experience in environmental initiatives, project management, and community engagement. Expertise in wastestream diversion, program development, and collaborative stakeholder engagement. Proven ability to deliver successful projects through effective planning, strategic partnerships, and data analysis. Seeking to leverage experience to advance local water advocacy as the Chicago Local Partnerships Manager at the Alliance for the Great Lakes.
 
-### BIKE CHICAGO SPECIALIST
-***Working Bikes*** | *Chicago, Illinois* | *2023-Present*  
+---
 
-- Led the expansion of the Bike Chicago program in collaboration with WRD Environmental and CDOT; this initiative increased access to options for over 2,000 participants, potentially reducing reliance on car travel and associated emissions
-- Managed stakeholder engagement with diverse partners like CDOT, SAFE Ambassadors, and NGOs, fostering collaboration on program policy, strategy, and logistics
-- Developed and managed program budgets of $400,000-$500,000 annually, ensuring efficient resource allocation and project success.
-- Established and maintained program quality standards and performance metrics, demonstrating a commitment to program effectiveness and continuous improvement.
-- Expanded bicycle distribution from 500 to 1,200 annually, prioritizing outreach to underserved communities, thereby increasing overall accessibility by 140%.
+## TECHNICAL SKILLS
 
-### PROGRAM MANAGER
-***Blackstone Bicycle Works*** | *Chicago, Illinois* | *2022*  
+- **Environmental Science & Engineering:** Environmental remediation, GC/MS, GC-FID/TCD, IC, redox chemistry.
+- **Policy Advocacy:** Policy development, community engagement, stakeholder collaboration, strategic planning.
+- **Project Management:** Volunteer management, budgeting, KPI tracking, team building.
+- **Data Analysis:** R for statistical analysis, qualitative and quantitative data collection.
+- **GIS:** Spatial data mapping and analysis using QGIS.
 
-- Led the revitalization of dormant earn-a-bike summer programs at Blackstone Bicycle Works, 20+ youth participants within the first year. This initiative provided at-risk youth with valuable hands-on skills in problem solving & bicycle maintenance, fostered community engagement, and promoted a healthy lifestyles
-- Mentored youth participants and interns, fostering their personal and professional development
-- Developed and managed program budgets of $300,000-$400,000 annually, ensuring efficient resource allocation and project success
+---
 
-### PROGRAM ASSISTANT
-***Oasis Bike Workshop*** | *Nashville, Tennessee* | *2015-2019*  
+## PROFESSIONAL EXPERIENCE
 
-- Empowered 120+ youth/year through after school earn-a-bike programs.
-- Conducted community outreach through public events with Walk Bike Nashville and local bicycle shops
-- Forged and deepened partnerships via targeted outreach, enhancing transportation access and equity through community-centric programming
+### BIKE CHICAGO SPECIALIST  
+**Working Bikes** | *Chicago, Illinois* | *2023-Present*  
 
-### RESEARCH ASSISTANT
-***Vanderbilt University*** | *Nashville, Tennessee* | *2009-2011, 2014-2019*  
+- Managed ordering, logistics, and partner coordination for CDOT's Bike Chicago program, increasing sustainable transportation access for over 2,000 participants.
+- Managed stakeholder engagement with partners like CDOT and non-profits, fostering collaboration on program policy, strategy, and logistics.
+- Developed and managed program budgets of $400,000-$500,000 annually.
+- Established and maintained program quality standards and performance metrics.
 
+### PROGRAM MANAGER  
+**Blackstone Bicycle Works** | *Chicago, Illinois* | *2022*  
 
-- Conducted 20+ research projects requiring meticulous data analysis, technical writing, and effective collaboration across diverse scientific disciplines
-- Developed a novel and cost-effective synthetic route to the natural product Bacillithiol, resulting in a 90% decrease in production cost, and demonstrating a strong understanding of process optimization and resource management
-Co-authored 4 research publications and secured 1 patent, demonstrating strong communication and project management skills
+- Revitalized dormant earn-a-bike summer programs, increasing youth participation by 50%.
+- Mentored youth participants and interns, fostering their development.
+- Developed and managed program budgets of $300,000-$400,000 annually.
 
-### GRADUATE STUDENT
-***Tokyo Institute of Technology*** | *Tokyo, Japan* | *2011-2013*  
+### PROGRAM ASSISTANT  
+**Oasis Bike Workshop** | *Nashville, Tennessee* | *2015-2019*  
 
-- Led independent research projects in synthetic chemistry, demonstrating strong initiative, research skills, and problem-solving abilities
-- Analyzed, compiled, and communicated complex scientific information to both technical and non-technical audiences, showcasing excellent communication and presentation skills
+- Empowered over 120 youth/year through after-school programs.
+- Conducted community outreach through public events, enhancing transportation access and equity.
+- Enhanced transportation access and equity through community-centric programming.
 
-## VOLUNTEER EXPERIENCE
+### RESEARCH ASSISTANT  
+**Vanderbilt University** | *Nashville, Tennessee* | *2009-2011, 2014-2019*  
 
-### BOARD MEMBER/MAINTENANCE COORDINATOR
-***Qumbya Housing Cooperative*** | *Chicago, Illinois* | *2024-Present*  
+- Conducted 20+ research projects requiring meticulous data analysis and technical writing.
+- Developed a cost-effective synthetic route to Bacillithiol, reducing production costs by 90%.
+- Co-authored 4 research publications and secured 1 patent.
 
-- Lead strategic initiatives and policy development to ensure Qumbya provided affordable and equitable housing for 45-55 residents
-- Oversee property maintenance, coordinating with contractors and NASCO Properties for larger projects. Demonstrated project management skills, resource allocation, and collaboration with external partners  
+### BOARD MEMBER/MAINTENANCE COORDINATOR  
+**Qumbya Housing Cooperative** | *Chicago, Illinois* | *2024-Present*  
 
-### VOLUNTEER MECHANIC & EDUCATOR
-***Free Ride Pittsburgh*** | *Pittsburgh, Pennsylvania* | *2021-2022*  
+- Lead strategic initiatives and policy development for affordable and equitable housing.
+- Oversee property maintenance, coordinating with contractors and NASCO Properties.
+- Oversee yearly maintenance budget of $40,000-$60,000 across three properties. 
 
-- Empowered community members through free, weekly bicycle mechanic lessons, fostering equitable access to sustainable transportation options
-- Increased access to affordable transportation by managing a program that provided refurbished bicycles and an accessible workspace   
+### VOLUNTEER MECHANIC & EDUCATOR  
+**Free Ride Pittsburgh** | *Pittsburgh, Pennsylvania* | *2021-2022*  
+**Faradgang** | Cologne, Germany | 2020-2021
 
-### VOLUNTEER MECHANIC & EDUCATOR
-***Faradgang*** | *Cologne, Germany* | *2020-2021*  
+- Conducted weekly bicycle mechanic lessons, fostering equitable access to transportation.
+- Managed a program providing refurbished bicycles and an accessible workspace for underserved communities, particularly migrants and refugees. 
 
-- Supported Faradgang's mission of promoting mobility and inclusion by delivering affordable, refurbished bicycles to displaced migrants and refugees
-- Organized and facilitated weekly community open-shop sessions for underserved individuals, fostering self-reliance and access to affordable transportation
+### VOLUNTEER  
+**Project C.U.R.E.** | *Nashville, Tennessee* | *2014-2016*  
 
-### VOLUNTEER
-***Project C.U.R.E.*** | *Nashville, Tennessee* | *2014-2016*  
+- Diverted essential medical supplies from landfills to over 135 countries.
+- Led and trained volunteer teams for efficient loading of medical supply containers valued at over $400,000/shipment. 
 
-- Reduced medical waste and promoted global health equity by diverting essential medical supplies from landfills to over 135 countries
-- Led and trained volunteer teams (up to 30 people) for efficient loading of medical supply containers valued at ~$400,000 each, demonstrating leadership, project management, and logistics coordination skills
-
-## SKILLS
-### **Technical Skills:**
-
-- **Project Management** *(10+ years)*:  
-  Proficient in volunteer management, budgeting, KPI tracking, strategic planning, stakeholder engagement, team building, and contractor management
-- **Data Analysis**:  
-Proficient in R for statistical analysis of environmental data
-- **Research**:  
-  Competent in orchestrating complex research projects from data collection and analysis to interpretation
-- **Geographic Information Systems (GIS)**:  
-  Proficient in spatial data mapping and analysis using QGIS
-
-### **Soft Skills:**
-
-- **Community Outreach** *(10+ years)*:  
-  Expert in implementing public service programs with strong capabilities in communication and collaboration
-- **Communication** *(10+ years)*:  
-  Effective in reading, writing, and producing clear, concise publications and technical documentation
-- **Problem-Solving**:  
-  Adept at identifying and resolving complex research and project challenges
-- **Attention to Detail**:  
-  Committed to precision and adherence to strict standards in all research and project activities
-- **Time Management**:  
-  Skilled in prioritizing tasks and consistently meeting deadlines under pressure
-- **Critical Thinking**:  
-  Proficient in analyzing data and making informed decisions based on sound reasoning
-
-## LANGUAGES
-
-- **English**: Native Speaker
-- **German**: Advanced/Fluent (Professional & Community Outreach)
-- **Spanish**: Basic Communication (Community Outreach)
-- **Japanese**: Introductory
+---
 
 ## EDUCATION
-**M.S. in Environmental Science**  
-***University of Cologne*** | *Cologne, Germany* | *2019-2022*  
 
+**M.S. in Environmental Science**  
+*University of Cologne* | *Cologne, Germany* | *2019-2022*  
 - Thesis: Tropical Cyclone and Climate Change: Historical Trends, Future Projections, and Social Impacts in Puerto Rico
 
 **M.S. in Environmental Chemistry and Engineering**  
-***Tokyo Institute of Technology*** | *Tokyo, Japan* | *2011-2013*  
-
-- Thesis: Synthesis and Application of Metal Complexes with S-shaped 𝛼-diimine Ligands
+*Tokyo Institute of Technology* | *Tokyo, Japan* | *2011-2013*  
+- Thesis: Synthesis and Application of Metal Complexes with S-shaped α-diimine Ligands
 
 **B.A. in Chemistry**  
-***Vanderbilt University*** | *Nashville, TN* | *2008-2011*  
-
-- Thesis: The Total Synthesis of Bacillithiol  
+*Vanderbilt University* | *Nashville, TN* | *2008-2011*  
+- Thesis: The Total Synthesis of Bacillithiol
 - 2010 DAAD Rise research internship at the University of Regensburg
+
+---
 
 ## PUBLICATIONS & PATENTS
 
-1. *"Ten-Year Retrospective of the Vanderbilt Institute of Chemical Biology Chemical Synthesis Core", Kim, P. P. Christov, I. Romaine,
-J. Tian, S. Jana, **A. P. Lamers**, B. F. Dutter, T. Scaggs, K. Jeon, B. Guttentag, C. D. Weaver, C. W. Lindsley, A. G. Waterson, and G. A.
-Sulikowski, ACS Chem. Biol., 2021, 16, 5, 787–793*
+1. *"Ten-Year Retrospective of the Vanderbilt Institute of Chemical Biology Chemical Synthesis Core", Kim, P. P. Christov, I. Romaine, J. Tian, S. Jana, **A. P. Lamers**, B. F. Dutter, T. Scaggs, K. Jeon, B. Guttentag, C. D. Weaver, C. W. Lindsley, A. G. Waterson, and G. A. Sulikowski, ACS Chem. Biol., 2021, 16, 5, 787--793*
 
-2. *"Optimization of ether and aniline based inhibitors of lactate dehydrogenase", P. P. Christov; K. Kim; S. Jana; I. R. Romaine; G. Rai;
-B. T. Mott; A. A. Allweil; **A. P. Lamers**; K. R. Brimacombe; D. J. Urban; T. D. Lee; X. Hu; C. M. Lukas; D. R. Davies; A. Jadhav; M. D. Hall; N.
-Green; W. J. Moore; G. Stott; A. J. Flint; D. J. Maloney; G. A. Sulikowski Bioorg. Med. Chem. Lett., 2021, 41, 127974*
+2. *"Optimization of ether and aniline based inhibitors of lactate dehydrogenase", P. P. Christov; K. Kim; S. Jana; I. R. Romaine; G. Rai; B. T. Mott; A. A. Allweil; **A. P. Lamers**; K. R. Brimacombe; D. J. Urban; T. D. Lee; X. Hu; C. M. Lukas; D. R. Davies; A. Jadhav; M. D. Hall; N. Green; W. J. Moore; G. Stott; A. J. Flint; D. J. Maloney; G. A. Sulikowski Bioorg. Med. Chem. Lett., 2021, 41, 127974*
 
-3. *"Synthesis of Bacillithiol and the Catalytic Selectivity of FosB-Type Fosfomycin Resistance Proteins", **A. P. Lamers**, M. E. Keithly,
-K. Kim, P. D. Cook, D. F. Stec, K. M. Hines, G. A. Sulikowski, and R. N. Armstrong, Organic Letters, 2012, 14 (20), 5207–5209*
+3. *"Synthesis of Bacillithiol and the Catalytic Selectivity of FosB-Type Fosfomycin Resistance Proteins", **A. P. Lamers**, M. E. Keithly, K. Kim, P. D. Cook, D. F. Stec, K. M. Hines, G. A. Sulikowski, and R. N. Armstrong, Organic Letters, 2012, 14 (20), 5207--5209*
 
-4. *"Development of a more highly selective M1 antagonist from the continued optimization of the MLPCN Probe ML012", B. J. Melancon, **A. P. Lamers**, T. M. Bridges, G. A. Sulikowski, T. J. Utley, D. J. Sheffler, M. J. Noetzel, R. D. Morrison, J. S. Daniels, C. M. Niswender,
-C. K. Jones, P. J. Conn, C. W. Lindsley, M. R. Wood, Bioorg. Med. Chem. Lett., 2012, 22(2), 1044–1048*
-
-5. *"TASPASE1 Inhibitors and uses thereof", M. Arkin, R. J. Neitz, A. Renslo, J. Hsieh, S. Dutta, C. Bryant, W. J. Moore, A. G. Waterson,
-L. Sambucetti, S. Jana, I. M. Romaine, **A. P. Lamers**, Y. Y. Adam, C. Repellin, U.S. Provisional Application No. 62/939,258, Filed Nov.
-22, 201*
+4. *"Development of a more highly selective M1 antagonist from the continued optimization of the MLPCN Probe ML012", B. J. Melancon, **A. P. Lamers**, T. M. Bridges, G. A. Sulikowski, et al., Bioorg. Med. Chem. Lett., 2021, 30, 24, 127419*
